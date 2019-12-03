@@ -13,4 +13,4 @@ Javascript
 ## Contacts And Supports
 email: kipiansang@gmail.com Twitter: @iansang17 Facebook: Ian sang 
 ## LICENSED 
-Licensed under [MIT LICENSED].(LICENSED)
+Licensed under [MIT LICENSED]. (LICENSED)
