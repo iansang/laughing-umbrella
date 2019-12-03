@@ -9,6 +9,7 @@ Using Master branch
 ## Technologies Used 
 CSS 
 HTML
+Javascript 
 ## Contacts And Supports
 email: kipiansang@gmail.com Twitter: @iansang17 Facebook: Ian sang 
 ## LICENSED 
