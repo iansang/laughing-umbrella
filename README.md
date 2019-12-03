@@ -1,4 +1,4 @@
-# laughing-umbrella
+# AkanNamingProject
 ## Iansang/AkanNamingProject
 ## Author
 Ian Sang
