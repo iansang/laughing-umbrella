@@ -10,6 +10,6 @@ Using master branch
 CSS 
 HTML
 ## Contacts And Supports
-email: kipiansang@gmail.com Twitter: @iansang17 Facebook: Ian Sang 
+email: kipiansang@gmail.com Twitter: @iansang17 Facebook: Ian sang 
 ## LICENSED 
 Licensed under [MIT LICENSED]. (LICENSED)
