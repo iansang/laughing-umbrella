@@ -5,7 +5,7 @@ Ian Sang
 ## Descriptions
 Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here is an application that automatically shows you your akan name considering the date, month and the year you were born. https://iansang.github.io/laughing-umbrella/
 ## Known Bugs
-Using Master branch
+Using Master Branch
 ## Technologies Used 
 CSS 
 HTML
